@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4977CD25-3CEA-400C-98B4-C73653ABDABC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MDYFileManager.cs">
+    <Files>
+      <File FileName="Program.cs" Line="69" Column="40" />
+      <File FileName="MDYLog.cs" Line="38" Column="55" />
+      <File FileName="MDYDiskInfo.cs" Line="6" Column="18" />
+      <File FileName="MDYFileInfo.cs" Line="7" Column="33" />
+      <File FileName="MDYDirInfo.cs" Line="15" Column="77" />
+      <File FileName="MDYFileManager.cs" Line="44" Column="63" />
+      <File FileName="StartEvent.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OOP13 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

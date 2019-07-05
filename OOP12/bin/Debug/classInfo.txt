@@ -1,0 +1,13 @@
+get_Item
+set_Item
+ToString
+CompareTo
+Equals
+GetHashCode
+GetType
+.ctor
+Item
+allClasses
+ID
+Param
+names

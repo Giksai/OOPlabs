@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfBall xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Ball>
+    <ID>1</ID>
+    <Pressure>0</Pressure>
+  </Ball>
+  <Ball>
+    <ID>2</ID>
+    <Pressure>1</Pressure>
+  </Ball>
+  <Ball>
+    <ID>3</ID>
+    <Pressure>2</Pressure>
+  </Ball>
+  <Ball>
+    <ID>4</ID>
+    <Pressure>3</Pressure>
+  </Ball>
+</ArrayOfBall>

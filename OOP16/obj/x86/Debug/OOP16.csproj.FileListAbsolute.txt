@@ -1,0 +1,6 @@
+/Users/evgenij/Projects/OOP16/bin/Debug/OOP16.exe
+/Users/evgenij/Projects/OOP16/bin/Debug/OOP16.pdb
+/Users/evgenij/Projects/OOP16/obj/x86/Debug/OOP16.csprojAssemblyReference.cache
+/Users/evgenij/Projects/OOP16/obj/x86/Debug/OOP16.csproj.CoreCompileInputs.cache
+/Users/evgenij/Projects/OOP16/obj/x86/Debug/OOP16.exe
+/Users/evgenij/Projects/OOP16/obj/x86/Debug/OOP16.pdb

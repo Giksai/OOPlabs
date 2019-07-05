@@ -1,0 +1,35 @@
+D:/Документы/Университет/3 семестр/ООТП/Лабораторные/Lab16/Lab16/bin/Debug/Lab16.exe.config
+D:/Документы/Университет/3 семестр/ООТП/Лабораторные/Lab16/Lab16/bin/Debug/Lab16.exe
+D:/Документы/Университет/3 семестр/ООТП/Лабораторные/Lab16/Lab16/bin/Debug/Lab16.pdb
+D:/Документы/Университет/3 семестр/ООТП/Лабораторные/Lab16/Lab16/obj/Debug/Lab16.csprojResolveAssemblyReference.cache
+D:/Документы/Университет/3 семестр/ООТП/Лабораторные/Lab16/Lab16/obj/Debug/Lab16.csproj.CoreCompileInputs.cache
+D:/Документы/Университет/3 семестр/ООТП/Лабораторные/Lab16/Lab16/obj/Debug/Lab16.exe
+D:/Документы/Университет/3 семестр/ООТП/Лабораторные/Lab16/Lab16/obj/Debug/Lab16.pdb
+C:/Users/cenia/Desktop/Lab16/Lab16/bin/Debug/Lab16.exe.config
+C:/Users/cenia/Desktop/Lab16/Lab16/bin/Debug/Lab16.exe
+C:/Users/cenia/Desktop/Lab16/Lab16/bin/Debug/Lab16.pdb
+C:/Users/cenia/Desktop/Lab16/Lab16/obj/Debug/Lab16.csproj.CoreCompileInputs.cache
+C:/Users/cenia/Desktop/Lab16/Lab16/obj/Debug/Lab16.exe
+C:/Users/cenia/Desktop/Lab16/Lab16/obj/Debug/Lab16.pdb
+C:/Users/cenia/Desktop/Lab16/Lab16/obj/Debug/Lab16.csprojAssemblyReference.cache
+E:/!3 SEMESTR LABS/OOP/Lab16/Lab16/bin/Debug/Lab16.exe.config
+E:/!3 SEMESTR LABS/OOP/Lab16/Lab16/bin/Debug/Lab16.exe
+E:/!3 SEMESTR LABS/OOP/Lab16/Lab16/bin/Debug/Lab16.pdb
+E:/!3 SEMESTR LABS/OOP/Lab16/Lab16/obj/Debug/Lab16.csprojAssemblyReference.cache
+E:/!3 SEMESTR LABS/OOP/Lab16/Lab16/obj/Debug/Lab16.csproj.CoreCompileInputs.cache
+E:/!3 SEMESTR LABS/OOP/Lab16/Lab16/obj/Debug/Lab16.exe
+E:/!3 SEMESTR LABS/OOP/Lab16/Lab16/obj/Debug/Lab16.pdb
+D:/OOP/Lab16/Lab16/bin/Debug/Lab16.exe.config
+D:/OOP/Lab16/Lab16/bin/Debug/Lab16.exe
+D:/OOP/Lab16/Lab16/bin/Debug/Lab16.pdb
+D:/OOP/Lab16/Lab16/obj/Debug/Lab16.csprojAssemblyReference.cache
+D:/OOP/Lab16/Lab16/obj/Debug/Lab16.csproj.CoreCompileInputs.cache
+D:/OOP/Lab16/Lab16/obj/Debug/Lab16.exe
+D:/OOP/Lab16/Lab16/obj/Debug/Lab16.pdb
+/Users/evgenij/Desktop/16/Lab16/Lab16/bin/Debug/Lab16.exe.config
+/Users/evgenij/Desktop/16/Lab16/Lab16/bin/Debug/Lab16.exe
+/Users/evgenij/Desktop/16/Lab16/Lab16/bin/Debug/Lab16.pdb
+/Users/evgenij/Desktop/16/Lab16/Lab16/obj/Debug/Lab16.csprojAssemblyReference.cache
+/Users/evgenij/Desktop/16/Lab16/Lab16/obj/Debug/Lab16.csproj.CoreCompileInputs.cache
+/Users/evgenij/Desktop/16/Lab16/Lab16/obj/Debug/Lab16.exe
+/Users/evgenij/Desktop/16/Lab16/Lab16/obj/Debug/Lab16.pdb

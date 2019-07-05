@@ -1,0 +1,11 @@
+/Users/evgenij/Projects/OOP_LAB_4/bin/Debug/netcoreapp2.1/OOP_LAB_4.deps.json
+/Users/evgenij/Projects/OOP_LAB_4/bin/Debug/netcoreapp2.1/OOP_LAB_4.runtimeconfig.json
+/Users/evgenij/Projects/OOP_LAB_4/bin/Debug/netcoreapp2.1/OOP_LAB_4.runtimeconfig.dev.json
+/Users/evgenij/Projects/OOP_LAB_4/bin/Debug/netcoreapp2.1/OOP_LAB_4.dll
+/Users/evgenij/Projects/OOP_LAB_4/bin/Debug/netcoreapp2.1/OOP_LAB_4.pdb
+/Users/evgenij/Projects/OOP_LAB_4/obj/Debug/netcoreapp2.1/OOP_LAB_4.csprojAssemblyReference.cache
+/Users/evgenij/Projects/OOP_LAB_4/obj/Debug/netcoreapp2.1/OOP_LAB_4.csproj.CoreCompileInputs.cache
+/Users/evgenij/Projects/OOP_LAB_4/obj/Debug/netcoreapp2.1/OOP_LAB_4.AssemblyInfoInputs.cache
+/Users/evgenij/Projects/OOP_LAB_4/obj/Debug/netcoreapp2.1/OOP_LAB_4.AssemblyInfo.cs
+/Users/evgenij/Projects/OOP_LAB_4/obj/Debug/netcoreapp2.1/OOP_LAB_4.dll
+/Users/evgenij/Projects/OOP_LAB_4/obj/Debug/netcoreapp2.1/OOP_LAB_4.pdb

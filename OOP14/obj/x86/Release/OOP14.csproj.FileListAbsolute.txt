@@ -1,0 +1,3 @@
+/Users/evgenij/Projects/OOP14/bin/Release/OOP14.exe
+/Users/evgenij/Projects/OOP14/obj/x86/Release/OOP14.csproj.CoreCompileInputs.cache
+/Users/evgenij/Projects/OOP14/obj/x86/Release/OOP14.exe

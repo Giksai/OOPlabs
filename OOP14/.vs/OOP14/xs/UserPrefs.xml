@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FEB2BECA-FD61-474C-9478-27B08B3AE182}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Serializator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="34" Column="11" />
+      <File FileName="Ball.cs" Line="63" Column="33" />
+      <File FileName="Serializator.cs" Line="114" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOP14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

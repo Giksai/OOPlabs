@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{5E9BA427-10FE-411B-8DC4-35524973AF7A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="EventClassVars.cs" Line="1" Column="1" />
+      <File FileName="Methods.cs" Line="1" Column="1" />
+      <File FileName="Prog.cs" Line="1" Column="1" />
+      <File FileName="User.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="47" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOP9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

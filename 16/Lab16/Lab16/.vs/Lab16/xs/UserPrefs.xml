@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{9A124740-A031-4EF9-AA0F-B8A21161E35B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="78" Column="22" />
+      <File FileName="Paralleler.cs" Line="54" Column="48" />
+      <File FileName="Store.cs" Line="50" Column="14" />
+      <File FileName="Tasker.cs" Line="6" Column="30" />
+      <File FileName="Vector.cs" Line="38" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab16 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

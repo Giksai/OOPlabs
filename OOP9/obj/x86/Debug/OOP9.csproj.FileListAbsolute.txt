@@ -1,0 +1,6 @@
+/Users/evgenij/Projects/OOP9/bin/Debug/OOP9.exe
+/Users/evgenij/Projects/OOP9/bin/Debug/OOP9.pdb
+/Users/evgenij/Projects/OOP9/obj/x86/Debug/OOP9.csprojAssemblyReference.cache
+/Users/evgenij/Projects/OOP9/obj/x86/Debug/OOP9.csproj.CoreCompileInputs.cache
+/Users/evgenij/Projects/OOP9/obj/x86/Debug/OOP9.exe
+/Users/evgenij/Projects/OOP9/obj/x86/Debug/OOP9.pdb

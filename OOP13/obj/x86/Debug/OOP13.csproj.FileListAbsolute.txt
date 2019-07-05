@@ -1,0 +1,6 @@
+/Users/evgenij/Projects/OOP13/bin/Debug/OOP13.exe
+/Users/evgenij/Projects/OOP13/bin/Debug/OOP13.pdb
+/Users/evgenij/Projects/OOP13/obj/x86/Debug/OOP13.csprojAssemblyReference.cache
+/Users/evgenij/Projects/OOP13/obj/x86/Debug/OOP13.csproj.CoreCompileInputs.cache
+/Users/evgenij/Projects/OOP13/obj/x86/Debug/OOP13.exe
+/Users/evgenij/Projects/OOP13/obj/x86/Debug/OOP13.pdb

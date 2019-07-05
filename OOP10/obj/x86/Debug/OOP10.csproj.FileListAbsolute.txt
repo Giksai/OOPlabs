@@ -1,0 +1,12 @@
+/Users/evgenij/Projects/OOP11/bin/Debug/OOP11.exe
+/Users/evgenij/Projects/OOP11/bin/Debug/OOP11.pdb
+/Users/evgenij/Projects/OOP11/obj/x86/Debug/OOP10.csprojAssemblyReference.cache
+/Users/evgenij/Projects/OOP11/obj/x86/Debug/OOP10.csproj.CoreCompileInputs.cache
+/Users/evgenij/Projects/OOP11/obj/x86/Debug/OOP11.exe
+/Users/evgenij/Projects/OOP11/obj/x86/Debug/OOP11.pdb
+/Users/evgenij/Projects/OOP10/bin/Debug/OOP11.exe
+/Users/evgenij/Projects/OOP10/bin/Debug/OOP11.pdb
+/Users/evgenij/Projects/OOP10/obj/x86/Debug/OOP10.csprojAssemblyReference.cache
+/Users/evgenij/Projects/OOP10/obj/x86/Debug/OOP10.csproj.CoreCompileInputs.cache
+/Users/evgenij/Projects/OOP10/obj/x86/Debug/OOP11.exe
+/Users/evgenij/Projects/OOP10/obj/x86/Debug/OOP11.pdb
